@@ -1,6 +1,6 @@
 {
-    "name": "stomp-php/stomp-php",
-    "description": "stomp support for PHP",
+    "name": "zhurenkai/stomp-php",
+    "description": "stomp support for PHP forked from stomp-php/stomp-php fix php8.1",
     "keywords": ["messaging", "stomp", "jms", "activemq", "rabbitmq", "apollomq"],
     "homepage": "http://github.com/stomp-php/stomp-php",
     "license": "Apache-2.0",
